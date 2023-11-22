@@ -3,6 +3,13 @@ Fibonacci Sequence Quiz
 Description
 This is a simple interactive program that quizzes the user on the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1. The program prompts the user to identify the next number in the sequence based on the given starting numbers.
 
+Why you will learn?
+* Active recall: By prompting you to manually enter the next numbers in the sequence, it trains active recall from your memory rather than just passive recognition. Retrieving information from memory strengthens those connections.
+* Instant feedback: The program immediately tells you whether your answer is correct or incorrect. Getting this feedback makes it clear whether you have mastered a particular part of the sequence.
+* Spaced repetition: As the quiz continues, you are repeatedly prompted to recall parts of the sequence you got right/wrong earlier. This repetition spaces out learning, which boosts retention.
+* Difficulty progression: The sequence naturally gets harder as the numbers get bigger. This increasing difficulty forces your brain to strain and strengthen.
+Interactivity: Actively entering each next number keeps you engaged, rather than just passively reading the sequence. This interaction helps drive learning.
+
 Usage
 Clone the repository or download the source code file.
 Make sure you have Rust installed on your system.
